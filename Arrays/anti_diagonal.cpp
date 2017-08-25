@@ -13,5 +13,4 @@ vector<vector<int> > Solution::diagonal(vector<vector<int> > &A) {
         }
         k++;
     }
-    return ans;
 }
