@@ -37,3 +37,4 @@ public class Solution {
         return (s.length() - getLPSArray(ans));
     }
 }
+
