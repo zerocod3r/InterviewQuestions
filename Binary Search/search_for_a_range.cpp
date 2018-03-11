@@ -36,7 +36,6 @@ int binarySearch(vector<int> A,int t,bool searchFirst){
 // }
 
 
-
 vector<int> Solution::searchRange(const vector<int> &A, int B) {
     // Do not write main() function.
     // Do not read input, instead use the arguments to the function.
