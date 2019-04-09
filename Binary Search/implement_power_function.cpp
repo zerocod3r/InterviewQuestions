@@ -1,3 +1,6 @@
+// Implement pow(x, n) % d.
+// In other words, given x, n and d,
+
 int Solution::pow(int x, int n, int d) {
     // Do not write main() function.
     // Do not read input, instead use the arguments to the function.

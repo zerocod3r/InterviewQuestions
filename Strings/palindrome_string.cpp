@@ -1,3 +1,5 @@
+// Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+
 public class Solution {
 	public int isPalindrome(String s) {
 	    int i,j;
