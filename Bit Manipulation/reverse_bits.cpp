@@ -1,9 +1,4 @@
-/*
-Ques-
-Reverse bits of an 32 bit unsigned integer
-
-*/
-
+// Reverse bits of an 32 bit unsigned integer
 
 unsigned int Solution::reverse(unsigned int A) {
     // Do not write main() function.
